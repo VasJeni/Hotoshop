@@ -7561,6 +7561,9 @@ svg {
 input {
   height: 25px; }
 
+body {
+  overflow: hidden; }
+
 .form-group {
   margin-bottom: 0; }
 
