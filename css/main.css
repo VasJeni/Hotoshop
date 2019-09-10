@@ -7561,9 +7561,6 @@ svg {
 input {
   height: 25px; }
 
-body {
-  overflow: hidden; }
-
 .form-group {
   margin-bottom: 0; }
 
@@ -7592,7 +7589,8 @@ body {
   background-image: url("../img/Rectanglelong.png");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  overflow: hidden; }
   .steps_wrapper:before {
     position: absolute;
     height: 100%;
